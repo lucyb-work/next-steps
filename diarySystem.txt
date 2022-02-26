@@ -16,3 +16,6 @@ How confident do we feel?
 - solid 6/10, looks challenging but comfortable to begin with
 - slightly cyber related
 - really want to work on GUI skills especially within Linux :)
+
+Gui ideas
+- https://www.gtk.org/docs/ 
