@@ -1,0 +1,18 @@
+Diary management system
+- impliment user and password for privacy & login management
+- learn file handling
+- create a GUI in the later stages
+- make it a wellness thing? 
+    - like this: https://www.etsy.com/uk/listing/946312252/designer-wellness-journal-a5-wirobound?frs=1&bes=1
+
+What can we start with?
+- basic file management - create new file, save it locally
+- then, make a user and password for different accounts
+- integrate making a GUI with the idea of a wellness journal 
+    - maybe have a 'simple mode'? Where people write thoughts like a good ol' diary?
+- take inspiration from many different wellness journal formats :)
+
+How confident do we feel?
+- solid 6/10, looks challenging but comfortable to begin with
+- slightly cyber related
+- really want to work on GUI skills especially within Linux :)
